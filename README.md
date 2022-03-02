@@ -1,4 +1,4 @@
-fallenpixel devstation
+fallenpixel.docker
 =========
 
 An ansible role to automate the update of all docker containers on a host using
